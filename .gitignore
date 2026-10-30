@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+*.swp
+
+# 构建产物
+build/
+icon_tool/
+
+# 本地工作数据
+.workbuddy/
